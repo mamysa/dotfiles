@@ -1,0 +1,11 @@
+{
+    "$schema": "https://raw.githubusercontent.com/sumneko/vscode-lua/master/setting/schema.json",
+    "Lua.workspace.checkThirdParty": false,
+	"workspace.library" : [
+		"/opt/homebrew/share/nvim/runtime/lua",
+		"/Users/mamysa/.local/share/nvim/lazy/monokai.nvim/lua",
+		"/Users/mamysa/.local/share/nvim/lazy/neodev.nvim/types/stable",
+		"/Users/mamysa/.local/share/nvim/lazy/nvim-treesitter/lua",
+		"/Users/mamysa/.local/share/nvim/lazy/nvim-treesitter-textobjects/lua"
+	],
+}
